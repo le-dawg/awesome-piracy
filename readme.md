@@ -167,6 +167,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
+- [ZeroTier](https://www.zerotier.com) VPN with encryption and excellent capabilites for transferring content from your seedbox to your local machine without revealing content.
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
